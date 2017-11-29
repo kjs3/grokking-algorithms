@@ -1,0 +1,14 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kjs3/grokking-algorithms.git",
+  "author": "Kenny Smith <mail@kjs3.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "dependencies": {
+    "ava": "^0.24.0"
+  }
+}
